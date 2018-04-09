@@ -1,8 +1,12 @@
 header {
   text-align: center;
+  color: white;
+  background-image: url("../images/the-flatiron-building.png");
+  font-family: Helvetica;
 }
 
 
-ul {  /* Removes dots from unordered list in header */
-  list-style-type: none;
+h1 {
+  font-size: 70px;
+  font-weight: bold;
 }
