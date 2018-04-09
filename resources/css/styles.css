@@ -1,0 +1,3 @@
+ul {  /* Removes dots from unordered list in header */
+  list-style-type: none;
+}
